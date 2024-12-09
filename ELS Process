@@ -1,0 +1,23 @@
+ELS Principles
+•	Daily calls to be scheduled by Project team after each rollout, during the ELS phase
+•	PROD issues must be tracked in Service Now 
+•	“Go – No Go” Handover to Support call to be scheduled by Project team in time, prior to the end of ELS
+•	No incident can be created for ongoing defects or user stories
+•	Incidents (P1-P4) linked to rollout are to be handled by Project team (SNOW Assignment Group: WW InFO Early Life Support) in accordance with IT Prod processes (priorities, MIM in case of P1, etc.). For the remaining P3/P4 incidents related to the rollout, an ETA and status should be communicated in SNOW. Also, the owners (Project/Support) would be defined accordingly (see slide 7: “Incident's volume & ETA”)
+•	Progress on incidents resolution must be reported daily by both Project and Support teams in order to assess level of compliance with ELS exit criteria
+•	Incidents eligible to Problem process (P1, P2, repeated, etc.) must trigger Problem creation. RCA and resolution will be owned by project team
+•	No incident should remain unattended / not updated in Project and Support queues
+•	No user story are left behind to be implemented during ELS phase or before going GO LIVE - Rollout team needs to make sure this never happens
+
+https://adeccogroup.atlassian.net/wiki/spaces/IID/pages/16135684121/ADECCO+Germany+LHH+DIS+FO+Daily+Status+as+of+03.12.2024 
+Go / No Go Decision
+•	Takes place before go-live week-end with business and should have Service Operations contributing to decision
+•	Decision must be based on confidence that rollout will have no or limited impact and in case of impact, the latter will be manageable during ELS
+•	By Project team as primary support 
+•	With help of Support team where applicable (e.g., non-rollout-related incidents), which implies a low volume of incidents in order not to put at risk the overall support service
+•	Once go-live is decided and operations started, no rollback possible (Salesforce limitation or limitation linked to BH package)
+•	ELS Entry criteria must be met in order to ensure smooth transition with no or very limited business impact
+•	ELS minimum duration should be agreed between parties, but actual duration depends on meeting ELS exit criteria
+•	Decision and observations if any must be documented in Go/No Go meeting minute
+
+
